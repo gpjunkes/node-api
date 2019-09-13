@@ -1,0 +1,19 @@
+passos
+
+node server.js
+
+npm install -d nodemon
+
+npm run dev
+
+docker
+gpjunkes
+senha e-mail
+
+docker pull mongo
+
+docker run --name mongodb -p 27017:27017 -d mongo - iniciar banco
+docker ps - quais imagens estão rodando
+
+docker ps -a (todas as máquinas)
+docker start mongodb - executar imagem mongo
